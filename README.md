@@ -8,7 +8,7 @@ A comprehensive end-to-end analytics project focused on customer churn behavior 
 To identify key patterns and risk factors contributing to customer churn at a telecom company. This solution empowers business stakeholders to take proactive retention actions.
 
 
-## 📂 Dataset
+##  Dataset
 
 Source: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 Final File Used: `cleaned_telco_churn.csv` (preprocessed with Python)
@@ -63,7 +63,7 @@ Final File Used: `cleaned_telco_churn.csv` (preprocessed with Python)
 
 
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | Folder/File                  | Description                                  |
 |-----------------------------|----------------------------------------------|
@@ -71,12 +71,38 @@ Final File Used: `cleaned_telco_churn.csv` (preprocessed with Python)
 | `Telco Customer Churn Analysis-checkpoint.ipynb"`   | Python notebook for cleaning & EDA         |
 | `Telco Customer Chrun insights Dsshbaord ` | Power BI dashboard file             |
 | `README.md`                     | Project documentation                      |
+| `Kaggle - Telco Customer Churn`                     | Orignal file                   |
 
----
 
-## 💻 How to Run
+
+##  How to Run
 
 1. Clone the repository:
    bash
-   git clone https://github.com/inolas-bit/telco-churn-analytics.git
-   cd telco-churn-analytics
+   git clone [https://github.com/inolas-bit/telco-churn-analytics.git
+   cd telco-churn-analytics](https://github.com/inolas-bit/Telco-Customer-Churn-Analysis)
+
+
+## Author 
+   About the Author
+Saloni Kumari Singh
+🎓 BCA Student | Data Analytics Enthusiast
+💼 Python | Power BI | SQL | Data Cleaning & EDA
+🔗 LinkedIn(https://www.linkedin.com/in/saloni-singh1329/)
+
+##  Show Your Support
+If you found this project useful or inspiring:
+
+- Star this repo
+- Fork and experiment
+- Connect with me on LinkedIn
+
+
+ 
+📌 License
+This project is for educational and portfolio purposes only.
+© 2025 Saloni Kumari Singh
+
+
+
+
